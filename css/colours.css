@@ -1,0 +1,16 @@
+.bg-think { background-color:#7A43EB; }
+
+.bg-pink { background-color:pink; }
+.fc-red { color:rgb(189, 40, 40); }
+
+.bg-yellow { background-color:rgb(245, 233, 126); }
+.fc-yellow { color:rgb(129, 113, 60); }
+
+.bg-grey { background-color:rgba(0,0,0,.2); }
+.fc-grey { color:rgba(0,0,0,.6); }
+
+.fc-grey { color:rgba(0,0,0,.6); }
+
+.bg-01 { background-color:rgba(0,0,0,.1); }
+
+.fc-01 { color:rgba(0,0,0,.3); }
