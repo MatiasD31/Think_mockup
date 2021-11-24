@@ -147,7 +147,6 @@
 #Next,#Prev {
     position:absolute;
     bottom:0px;
-    left:0px;
     right:0px;
     margin:auto;
     width:40px;
@@ -159,5 +158,6 @@
     transition:.4s;
 }
 
-#Prev { bottom:0px; }
+#Next { left:0px; }
+#Prev { left:-150px; }
 
